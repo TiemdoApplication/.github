@@ -1,6 +1,12 @@
 # Tiemdo Github Profile
 
-Welcome to the github page of <https://tiemdo.com/>
+Website: <https://tiemdo.com/>
+
+Client Webapp: <https://app.tiemdo.com/>
+
+Admin Webapp: <https://admin.tiemdo.com/>
+
+TimeClock Webapp: <https://timeclock.tiemdo.com/>
 
 ## Project board
 
