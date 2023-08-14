@@ -6,7 +6,7 @@ Client Webapp: <https://app.tiemdo.com/>
 
 Admin Webapp: <https://admin.tiemdo.com/>
 
-TimeClock Webapp: <https://timeclock.tiemdo.com/>
+TimeClock Webapp: <https://clock.tiemdo.com/>
 
 ## Project board
 
