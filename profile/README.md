@@ -14,16 +14,14 @@ You can view the project board at: <https://github.com/orgs/TiemdoApplication/pr
 
 ## Repositories
 
-Landing page: <https://github.com/TiemdoApplication/landingPage>
+Website: <https://github.com/TiemdoApplication/website>
 
-Client Webapp: <https://github.com/TiemdoApplication/clientWebapp>
+Webapp: <https://github.com/TiemdoApplication/webapp>
 
-Admin Webapp: <https://github.com/TiemdoApplication/adminWebApp>
+Admin: <https://github.com/TiemdoApplication/admin>
 
 Backend: <https://github.com/TiemdoApplication/backend>
 
-Mobile app: <https://github.com/TiemdoApplication/TiemdoMobileApp>
+App: <https://github.com/TiemdoApplication/app>
 
-TimeClock app: <https://github.com/TiemdoApplication/timeclockWebapp>
-
-Old Tiemdo source: <https://github.com/TiemdoApplication/OLD-TiemdoWebApp>
+Clock: <https://github.com/TiemdoApplication/clock>
