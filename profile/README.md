@@ -24,4 +24,4 @@ Backend: <https://github.com/TiemdoApplication/backend>
 
 App: <https://github.com/TiemdoApplication/app>
 
-Clock: <https://github.com/TiemdoApplication/clock>
+Clock: <https://github.com/Tiemdoo/clock>
